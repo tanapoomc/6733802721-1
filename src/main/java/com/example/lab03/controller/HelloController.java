@@ -28,9 +28,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     // ── ข้อมูลนักศึกษา ── แก้ไขตรงนี้ ──────────────────────────────────────
-    private static final String NAME    = "ธนภูมิ จันทรา";     // TODO: ใส่ชื่อจริง
-    private static final String ID      = "6733802721";               // TODO: ใส่รหัสนักศึกษา
-    private static final String SECTION = "1";                  // TODO: ใส่เลข Section
+    private static final String NAME    = "ธนภูมิ จันทรา";     
+    private static final String ID      = "6733802721";               
+    private static final String SECTION = "1";                  
     // ─────────────────────────────────────────────────────────────────────────
 
     /**
